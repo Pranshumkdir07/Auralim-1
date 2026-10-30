@@ -1,0 +1,11 @@
+# Auralium prototype dependencies
+# Install with:  pip install -r auralium/requirements.txt
+numpy
+scipy
+pandas
+librosa
+scikit-learn
+matplotlib
+joblib
+sounddevice
+streamlit
